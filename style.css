@@ -110,9 +110,9 @@ body {
     height: 340px;
     border-radius: 50%;
     margin: auto;
-    background: url(./img/its\ me\ \(3\).jpg) no-repeat;
+    background: url(./img/profilepic.jpg) no-repeat;
     background-size: 105%;
-    background-position: 200% 0;
+    background-position: 20% 0;
      border: 2px solid #d8c3c3
 
 }
